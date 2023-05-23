@@ -1,2 +1,3 @@
-1. HTML / JavaScript
-   Later on, we will use Nextjs / Reactjs
+## Basic HTML / JavaScript Frontend
+
+See Nextjs / Reactjs in other repos
